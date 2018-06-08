@@ -19,11 +19,11 @@ PAXCHANGE Coin (PAXEX) is a sustainable cryptocurrency modeled after Satoshi Nak
 
 ### Reward Distribution
 
-| **Block Height** | **Masternodes**  | **PoS**          | **Budget**       |
-|------------------|------------------|------------------|------------------|
-| 201-259200       | 80% (80 PAXEX)   | 10% (10 PAXEX)   | 10% (10 PAXEX)   |
-| 259201-388800    | 80% (40 PAXEX)   | 10% (5 PAXEX)    | 10% (5 PAXEX)    |
-| 388801-518400    | 80% (20 PAXEX)   | 10% (2.5 PAXEX)  | 10% (2.5 PAXEX)  |
-| 518401-648000    | 80% (10 PAXEX)   | 10% (1.13 PAXEX) | 10% (1.12 PAXEX) |
-| 648001-907200    | 80% (5 PAXEX)    | 10% (0.62 PAXEX) | 10% (0.62 PAXEX) |
-| 907201-Infinite  | 80% (2.5 PAXEX)  | 10% (0.31 PAXEX) | 10% (0.31 PAXEX) |
+| **Block Height** | **Masternodes**  | **PoS**          |
+|------------------|------------------|------------------|
+| 201-259200       | 80% (80 PAXEX)   | 20% (20 PAXEX)   | 
+| 259201-388800    | 80% (40 PAXEX)   | 20% (10 PAXEX)   | 
+| 388801-518400    | 80% (20 PAXEX)   | 20% (5 PAXEX)    |
+| 518401-648000    | 80% (10 PAXEX)   | 20% (2.5 PAXEX)  | 
+| 648001-907200    | 80% (5 PAXEX)    | 20% (1.23 PAXEX) |
+| 907201-Infinite  | 80% (2.5 PAXEX)  | 20% (0.62 PAXEX) | 
