@@ -3,7 +3,7 @@ New exchange platform
 POS/MASTERNODE
 
 Introducing PAXEX
-PAXEX is a POS/MASTERNODE coin designed to enable users of www.paxchanger.com realtime access to a coin with a multiple users and features which will enable PAXEX holder long term stability and growth with a constant source of reward. 
+PAXEX is a POS/MASTERNODE coin designed to enable users of www.paxchanger.com realtime access to a coin with multiple features ,long term stability, growth and a constant source of reward. 
 Our platform enables local currency and fiat access to BTC, DOGE, LTC etc in Africa and Asia. 
 The movement has begun.
 
