@@ -1,12 +1,20 @@
-PAXCHANGE Core integration/staging repository
-=================================================
+PAXEX ECOSYSTEM
+New exchange platform
+POS/MASTERNODE
 
-PAXCHANGE Coin (PAXEX) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s vision for Bitcoin. It is a decentralized, peer-to-peer transactional currency designed to offer a solution to the problems faced by cotton miners in third world countries. PAXCHANGE Coin is envisioned to replace fiat currency as the primary currency in global cotton trade. In addition, PAXCHANGE Coin has a blockchain backend traceability system to authenticate the source of cotton, monitor prices and track delivery. Access to the backend system is via an advanced B2B and B2C dApps.
+Introducing PAXEX
+PAXEX is a POS/MASTERNODE coin designed to enable users of www.paxchanger.com realtime access to a coin with a multiple users and features which will enable PAXEX holder long term stability and growth with a constant source of reward. 
+Our platform enables local currency and fiat access to BTC, DOGE, LTC etc in Africa and Asia. 
+The movement has begun.
 
-- Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
-- Decentralized blockchain voting providing for consensus based advancement of the current Masternode
-  technology used to secure the network and provide the above features, each Masternode is secured
-  with a collateral of 5,000 PAXEX.
+FEATURES
+Coin Ticker: PAXEX
+Block Time: 1 min
+Masternode Collateral: 5000 PAXEX
+Total Supply: 100,000,000
+Premine: 1,500,000
+Staking Time: 24 hours
+
 
 
 ### Coin Specs
