@@ -10,7 +10,7 @@ What problems is PAXEX solving?
 
 Polls and opinion polls, voting are done daily without the forum owner, blogger earning from it. Now PAXEX comes with the ability to earn money for anyone who has a passion for managing online forum, blogs etc.
 You can link your website to the PAXEX platform, create polls, voting etc on your website and your users can only participate by sending fix amount of PAXEX coins to vote. All earning goes straight to the admin.
-Perfect for large forum, election survey on website, sport voting. The possibilty is unlimited.
+Perfect for large forums, election survey on website, sport voting. The possibilty is unlimited.
 
 
 
